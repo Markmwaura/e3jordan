@@ -36,20 +36,25 @@
     margin: 0px;
 }
 .footer  {
-    top: 700px;
-    background-color:#524B58;
-    height: 270px;
+    background-color:rgba(82, 75, 88, 0.4);
+    height: 168px;
     position: relative;
-    top: 700px;
-    width: 107.5%;
-    left: -18px
+    width: 100%;
+    bottom: 170px;
+    z-index: 30000;
+    padding: 5%;
+    font-size: 30px;
+    color: white;
 
 
 }
 .rowd{
-    margin-left :5%;
-    margin-right : 10%;
-    background-color: #524B58;
+    margin: auto;
+    background-color: rgba(82, 75, 88, 0.0);
+    width: 80%;
+    margin: 0 auto;
+    position: absolute;
+   bottom: 0;
 
 }
 .footer .row div p{
@@ -62,12 +67,67 @@
 .middle{
 
     position: absolute;
-    width:90%;
-    left: auto;
-    right: auto;
-    padding-right: 15%;
+
     z-index: 10000;
     color: #fff;
     text-align: center;
     font-size: 28px;
+    width: 100%;
+}
+.toprow{
+
+margin-top: 11%;
+
+}
+.topmiddle{
+
+margin-top: 7%;
+
+}
+.followdiv {
+
+        text-align: center;
+        vertical-align: middle;
+
+}
+.followdiv  p {
+
+    background-color: #202e35;
+    vertical-align: middle;
+
+    margin:auto;
+    width: 45%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+    color: #ef992a;
+}
+.namebig{
+
+    font-family: "Arial";
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+.city{
+    font-size: 21px;
+    font-weight: bold;
+}
+hr{
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+.containersrow{
+    margin: auto;
+}
+.morefooter{
+margin: auto;
+
+}
+.middlefooter{
+
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    padding-left: 3%;
+    padding-right: 3%;
 }
