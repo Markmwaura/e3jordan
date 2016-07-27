@@ -1,2 +1,2 @@
 # e3jordan
-This is a sample website showing a personal portfolio of Jordan
+This is a simple website showing a personal portfolio of Jordan. The live view can be found here . [Jordan](http://jordanweb.bitballoon.com/)
